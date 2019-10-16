@@ -1,2 +1,3 @@
 es una prova
 per provar el git
+afegeixo una nova frase
